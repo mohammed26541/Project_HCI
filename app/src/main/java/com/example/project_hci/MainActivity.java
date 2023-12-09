@@ -27,6 +27,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 AlertDialog.Builder mAlertDialog = new AlertDialog.Builder(MainActivity.this);
+                mAlertDialog.setIcon(R.drawable.baseline_check_circle_outline_24);
                 mAlertDialog.setTitle("The price is espresso = 20EGP");
                 mAlertDialog.setMessage("Do you want to complete the ordering process?");
                 mAlertDialog.setCancelable(false);
@@ -50,6 +51,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 AlertDialog.Builder mAlertDialog = new AlertDialog.Builder(MainActivity.this);
+                mAlertDialog.setIcon(R.drawable.baseline_check_circle_outline_24);
                 mAlertDialog.setTitle("The price is Orange Juice = 15EGP");
                 mAlertDialog.setMessage("Do you want to complete the ordering process?");
                 mAlertDialog.setCancelable(false);
@@ -73,6 +75,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 AlertDialog.Builder mAlertDialog = new AlertDialog.Builder(MainActivity.this);
+                mAlertDialog.setIcon(R.drawable.baseline_check_circle_outline_24);
                 mAlertDialog.setTitle("The price is Cappuccino = 30EGP");
                 mAlertDialog.setMessage("Do you want to complete the ordering process?");
                 mAlertDialog.setCancelable(false);
@@ -96,6 +99,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 AlertDialog.Builder mAlertDialog = new AlertDialog.Builder(MainActivity.this);
+                mAlertDialog.setIcon(R.drawable.baseline_check_circle_outline_24);
                 mAlertDialog.setTitle("The price is Black Coffee = 30EGP");
                 mAlertDialog.setMessage("Do you want to complete the ordering process?");
                 mAlertDialog.setCancelable(false);
@@ -119,6 +123,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 AlertDialog.Builder mAlertDialog = new AlertDialog.Builder(MainActivity.this);
+                mAlertDialog.setIcon(R.drawable.baseline_check_circle_outline_24);
                 mAlertDialog.setTitle("The price is Mango Juice = 30EGP");
                 mAlertDialog.setMessage("Do you want to complete the ordering process?");
                 mAlertDialog.setCancelable(false);
@@ -142,6 +147,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 AlertDialog.Builder mAlertDialog = new AlertDialog.Builder(MainActivity.this);
+                mAlertDialog.setIcon(R.drawable.baseline_check_circle_outline_24);
                 mAlertDialog.setTitle("The price is Tea😎 = 10EGP");
                 mAlertDialog.setMessage("Do you want to complete the ordering process?");
                 mAlertDialog.setCancelable(false);
