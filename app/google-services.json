@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "971506309468",
+    "firebase_url": "https://project-hci-coffee-shop-default-rtdb.firebaseio.com",
+    "project_id": "project-hci-coffee-shop",
+    "storage_bucket": "project-hci-coffee-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971506309468:android:3ed562634b40922f484999",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5g5oru0TOoHWcClgVG5LagWbcIbgLbfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971506309468:android:9b67903d5d63450d484999",
+        "android_client_info": {
+          "package_name": "com.example.project_hci"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5g5oru0TOoHWcClgVG5LagWbcIbgLbfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971506309468:android:7d9e4d9721aaf286484999",
+        "android_client_info": {
+          "package_name": "com.example.project_hci_coffeeshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5g5oru0TOoHWcClgVG5LagWbcIbgLbfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
