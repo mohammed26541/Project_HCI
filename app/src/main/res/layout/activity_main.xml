@@ -11,13 +11,14 @@
         android:id="@+id/button5"
         android:layout_width="134dp"
         android:layout_height="107dp"
-        android:backgroundTint="#30ffffff"
+        android:backgroundTint="#00FFFFFF"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.057"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.49" />
+        app:layout_constraintVertical_bias="0.49"
+        tools:ignore="SpeakableTextPresentCheck" />
 
     <TextView
         android:id="@+id/textView2"
@@ -72,37 +73,40 @@
         android:id="@+id/button6"
         android:layout_width="134dp"
         android:layout_height="107dp"
-        android:backgroundTint="#30ffffff"
+        android:backgroundTint="#00FFFFFF"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.967"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.49" />
+        app:layout_constraintVertical_bias="0.49"
+        tools:ignore="SpeakableTextPresentCheck" />
 
     <Button
         android:id="@+id/button7"
         android:layout_width="134dp"
         android:layout_height="107dp"
-        android:backgroundTint="#30ffffff"
+        android:backgroundTint="#00FFFFFF"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.942"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.777" />
+        app:layout_constraintVertical_bias="0.777"
+        tools:ignore="SpeakableTextPresentCheck" />
 
     <Button
         android:id="@+id/button8"
         android:layout_width="134dp"
         android:layout_height="107dp"
-        android:backgroundTint="#30ffffff"
+        android:backgroundTint="#00FFFFFF"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.057"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.759" />
+        app:layout_constraintVertical_bias="0.759"
+        tools:ignore="SpeakableTextPresentCheck" />
 
     <ImageView
         android:id="@+id/imageView2"
@@ -123,19 +127,19 @@
 
     <ImageView
         android:id="@+id/imageView3"
-        android:layout_width="134dp"
-        android:layout_height="101dp"
+        android:layout_width="105dp"
+        android:layout_height="94dp"
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
-        android:src="@drawable/mango"
+        android:src="@drawable/mangojuice"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.057"
+        app:layout_constraintHorizontal_bias="0.094"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.752"
+        app:layout_constraintVertical_bias="0.761"
         tools:ignore="MissingConstraints" />
 
     <ImageView
@@ -163,7 +167,7 @@
         android:layout_alignParentTop="true"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
-        android:src="@drawable/turkish_coffee"
+        android:src="@drawable/orangejuice"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.943"
@@ -237,23 +241,23 @@
 
     <TextView
         android:id="@+id/textView9"
-        android:layout_width="119dp"
-        android:layout_height="82dp"
+        android:layout_width="82dp"
+        android:layout_height="69dp"
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
         android:gravity="center_horizontal"
-        android:text="Espresso conpanna  30EGP"
+        android:text="Mango Juice 30EGP"
         android:textColor="@color/black"
         android:textSize="20dp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.085"
+        app:layout_constraintHorizontal_bias="0.118"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.885"
+        app:layout_constraintVertical_bias="0.877"
         tools:ignore="MissingConstraints" />
 
     <TextView
@@ -286,7 +290,7 @@
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
         android:gravity="center_horizontal"
-        android:text="Turkish coffee  25EGP"
+        android:text="orange juice 10EGP"
         android:textColor="@color/black"
         android:textSize="20dp"
         android:textStyle="bold"
@@ -302,24 +306,26 @@
         android:id="@+id/button2"
         android:layout_width="134dp"
         android:layout_height="107dp"
-        android:backgroundTint="#30ffffff"
+        android:backgroundTint="#00FFFFFF"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.057"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.195" />
+        app:layout_constraintVertical_bias="0.195"
+        tools:ignore="SpeakableTextPresentCheck" />
 
     <Button
         android:id="@+id/button4"
-        android:layout_width="134dp"
-        android:layout_height="107dp"
-        android:backgroundTint="#30ffffff"
+        android:layout_width="79dp"
+        android:layout_height="65dp"
+        android:backgroundTint="#00FFFFFF"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.942"
+        app:layout_constraintHorizontal_bias="0.879"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.195" />
+        app:layout_constraintVertical_bias="0.213"
+        tools:ignore="SpeakableTextPresentCheck" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
